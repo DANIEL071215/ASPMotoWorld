@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Daniel 12d\\MotoWorld\\MotoWorld\\MotoWorld.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Proekt\\ASPMotoWorld-master\\MotoWorld\\MotoWorld.csproj": {}
   },
   "projects": {
-    "C:\\Daniel 12d\\MotoWorld\\MotoWorld\\MotoWorld.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Proekt\\ASPMotoWorld-master\\MotoWorld\\MotoWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Daniel 12d\\MotoWorld\\MotoWorld\\MotoWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Proekt\\ASPMotoWorld-master\\MotoWorld\\MotoWorld.csproj",
         "projectName": "MotoWorld",
-        "projectPath": "C:\\Daniel 12d\\MotoWorld\\MotoWorld\\MotoWorld.csproj",
-        "packagesPath": "C:\\Users\\1212-1\\.nuget\\packages\\",
-        "outputPath": "C:\\Daniel 12d\\MotoWorld\\MotoWorld\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Proekt\\ASPMotoWorld-master\\MotoWorld\\MotoWorld.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Proekt\\ASPMotoWorld-master\\MotoWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\1212-1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -101,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
